@@ -6,7 +6,6 @@ Calificación del laboratorio
 import sqlite3
 import sys
 import os
-os.system('pip install pandas')
 import pandas as pd
 
 

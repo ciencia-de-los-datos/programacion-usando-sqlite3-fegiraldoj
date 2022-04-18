@@ -5,7 +5,7 @@ Calificación del laboratorio
 
 import sqlite3
 import sys
-
+import os
 import pandas as pd
 
 
